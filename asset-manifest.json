@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/riotclient/static/css/main.891eec4b.css",
+    "main.js": "/riotclient/static/js/main.dc202b7e.js",
+    "static/js/787.eedb8463.chunk.js": "/riotclient/static/js/787.eedb8463.chunk.js",
+    "static/media/hero.mp4": "/riotclient/static/media/hero.6c2d92cf1905963e7268.mp4",
+    "static/media/LOLw.png": "/riotclient/static/media/LOLw.30cd0c55bb6df2030933.png",
+    "static/media/lolr.jpeg": "/riotclient/static/media/lolr.4bf869fc3166388145bd.jpeg",
+    "static/media/Valoboy.jpeg": "/riotclient/static/media/Valoboy.3c077643afc89e72d89c.jpeg",
+    "static/media/event.webp": "/riotclient/static/media/event.32fd3a501fa8a1be0450.webp",
+    "static/media/valo.jpg": "/riotclient/static/media/valo.2203676cf1cab5a0ea4c.jpg",
+    "static/media/LOL.webp": "/riotclient/static/media/LOL.05df9f5c4f67da6e1284.webp",
+    "static/media/tft.jpg": "/riotclient/static/media/tft.75c35725020a065ffa16.jpg",
+    "static/media/logo.svg": "/riotclient/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/riotclient/index.html",
+    "main.891eec4b.css.map": "/riotclient/static/css/main.891eec4b.css.map",
+    "main.dc202b7e.js.map": "/riotclient/static/js/main.dc202b7e.js.map",
+    "787.eedb8463.chunk.js.map": "/riotclient/static/js/787.eedb8463.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.891eec4b.css",
+    "static/js/main.dc202b7e.js"
+  ]
+}
